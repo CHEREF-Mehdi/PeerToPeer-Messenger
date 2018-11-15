@@ -1,5 +1,5 @@
 # PeerToPeer-Messenger
-Peer-To-Peer Messenger Application for LAN use
+Desktop Peer-To-Peer Messenger Application for LAN use
 
 # Local Area Network (LAN)
 
