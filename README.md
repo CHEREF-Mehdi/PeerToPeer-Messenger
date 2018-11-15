@@ -25,6 +25,9 @@ File sharing is also supported in this app, the user must select the file using 
 
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(3).png)
 
+![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(4).png)
+
+# UML Sequence diagram
 
 
 # important
