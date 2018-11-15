@@ -19,9 +19,12 @@ When a computer is connecting to the LAN and the user lunch the application a sy
 
 To start a conversation you have to select the user by clicking on its green box  inside the connected user list.
 
+![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(2).png)
+
 File sharing is also supported in this app, the user must select the file using the filechooser UI, the reciever get 2 notifications the first one is a system notification, rised to prevent the user that someone want to share with him a file, the second notification is a confirm dialog box used to accept or decline the operation.
 
-![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(2).png)
+![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(3).png)
+
 
 
 # important
