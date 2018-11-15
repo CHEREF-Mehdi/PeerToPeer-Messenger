@@ -13,7 +13,9 @@ To start a conversation you have to select the user by clicking on its green box
 
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(6).png)
 
-File sharing is also possible, the user must select the file using the filechooser UI, the reciever get 2 notifications the first one is a system notification, rised to prevent the user that someone want to share with him a file, the second notification is a confirm dialog box used to accept or decline the operation.
+File sharing is also supported in this app, the user must select the file using the filechooser UI, the reciever get 2 notifications the first one is a system notification, rised to prevent the user that someone want to share with him a file, the second notification is a confirm dialog box used to accept or decline the operation.
+
+![alt text]()
 
 # important
 You have to add to the external libraries "jfoenix.jar" that you find inside the main folder.
