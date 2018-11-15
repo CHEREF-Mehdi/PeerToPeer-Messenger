@@ -28,7 +28,10 @@ File sharing is also supported in this app, the user must select the file using 
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(4).png)
 
 # UML Sequence diagram
+## about the Sequence diagram 
+https://www.ibm.com/developerworks/rational/library/3101.html
 
+![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/UML-sequence%20diagram.png)
 
 # important
 You have to add to the external libraries "jfoenix.jar" that you find inside the main folder.
