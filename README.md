@@ -34,4 +34,4 @@ https://www.ibm.com/developerworks/rational/library/3101.html
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/UML-sequence%20diagram.png)
 
 # important
-You have to add to the external libraries "jfoenix.jar" that you find inside the main folder.
+You have to add to the external libraries of the project "jfoenix.jar" that you find inside the main folder.
