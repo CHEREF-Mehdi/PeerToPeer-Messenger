@@ -7,7 +7,7 @@ A local area network (LAN) is a group of computers and associated devices that s
 
 # PeerToPeer (P2P) Service
 
-A peer-to-peer (P2P) service is a decentralized platform whereby two individuals interact directly with each other, without intermediation by a third-party. Instead, the buyer and the seller transact directly with each other via the P2P service.
+Peer-to-peer (P2P) is a decentralized communications model in which each party has the same capabilities and either party can initiate a communication session. Unlike the client/server model, in which the client makes a service request and the server fulfills the request, the P2P network model allows each node to function as both a client and server.
 
 # About the application
 
