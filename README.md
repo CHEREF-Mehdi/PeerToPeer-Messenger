@@ -1,6 +1,10 @@
 # PeerToPeer-Messenger
 Peer-To-Peer Messenger Application for LAN use
 
+# Local Area Network (LAN)
+
+A local area network (LAN) is a group of computers and associated devices that share a common communications line or wireless link to a server. Typically, a LAN encompasses computers and peripherals connected to a server within a distinct geographic area such as an office or a commercial establishment. Computers and other mobile devices use a LAN connection to share resources such as a printer or network storage.
+
 # About the application
 
 This application was created to provide a safe and faste the communication inside a small company by sending simple messages or sharing files, if a user is not connected to the LAN he cannot communicate with the connected users.
