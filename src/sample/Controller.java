@@ -391,7 +391,7 @@ public class Controller implements Initializable {
                         }
                         else {
                             //uncomment below to remove your computer from the connected friend list
-                            if(/*!infoPeer[0].equals(IpAdress)&&*/!ConnectFriends.find(infoPeer[0])){
+                            if(!infoPeer[0].equals(IpAdress)&&!ConnectFriends.find(infoPeer[0])){
                                 send(infoPeer[0],1);
                                 client freind=new client(infoPeer[0],infoPeer[1],infoPeer[2]);
                                 displayTray(infoPeer[1]+" is now connected");
@@ -533,7 +533,7 @@ public class Controller implements Initializable {
 
         Stage s=(Stage)TFmsg.getScene().getWindow();
         s.close();
-        System.exit(1);
+        System.exit(0);
 
     }
 
