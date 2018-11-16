@@ -13,7 +13,7 @@ Peer-to-peer (P2P) is a decentralized communications model in which each party h
 
 This application was created to provide a safe and faste communication inside a small company by sending simple messages or sharing files, if a user is not connected to the LAN he cannot communicate with the connected users.
 
-When a computer is connected to the LAN and the user lunch the application a system notification will be sent to the connected users by sending Broadcast (LAN-Broadcast), and a new green box will be added to the connected user list.
+When a computer is connected to the LAN and the user lunch the application a system notification will be rised to the connected users by sending Broadcast (LAN-Broadcast), and a new green box will be added to the connected user list.
 
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(1).png)
 
