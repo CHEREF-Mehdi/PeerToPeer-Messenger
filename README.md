@@ -37,8 +37,9 @@ All the file received using this application will be stored inside the Miv-chat 
 ## about the Sequence diagram 
 https://www.ibm.com/developerworks/rational/library/3101.html
 
-#### the sequence diagram below is assigned to file sharing task. 
+#### The sequence diagram below is assigned to file sharing task. 
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/UML-sequence%20diagram.png)
 
 # Important
+You can install this application using set up installer you will find in folder
 You have to add to the external libraries of the project "jfoenix.jar" that you find inside the main folder.
