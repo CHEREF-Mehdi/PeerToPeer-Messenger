@@ -31,7 +31,7 @@ File sharing is also supported in this app, the user must select the file using 
 
 The application will automatically create a sub-folder named Miv-chat located in the default user-folder. 
 
-All the file received using this application will be stored inside the Miv-chat folder
+All the received file will be found inside the Miv-chat folder. 
 
 # UML Sequence diagram
 ## about the Sequence diagram 
