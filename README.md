@@ -29,7 +29,7 @@ File sharing is also supported in this app, the user must select the file using 
 
 # Received files
 
-The application will automatically create a sub-folder named Miv-chat located the in the default user-folder. 
+The application will automatically create a sub-folder named Miv-chat located in the default user-folder. 
 
 All the file received using this application will be stored inside the Miv-chat folder
 
