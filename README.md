@@ -27,6 +27,12 @@ File sharing is also supported in this app, the user must select the file using 
 
 ![alt text](https://github.com/CHEREF-Mehdi/PeerToPeer-Messenger/blob/master/ReadMeImages/Screenshot%20(4).png)
 
+# Received files
+
+The application will automatically create a sub-folder located the in the user-folder named Miv-chat. 
+
+All the file received using this application will be stored inside the Miv-chat folder
+
 # UML Sequence diagram
 ## about the Sequence diagram 
 https://www.ibm.com/developerworks/rational/library/3101.html
